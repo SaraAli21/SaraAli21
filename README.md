@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaraAli21
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Programming, databases, and a few operating systems
+- 🌱 I’m currently learning prolog,Dart
+- 💞️ I’m looking to collaborate on Programming, AI
 - 📫 How to reach me by my twitter sara9090ME
 
 <!---
